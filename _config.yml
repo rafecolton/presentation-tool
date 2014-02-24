@@ -1,0 +1,10 @@
+exclude:
+  - README
+  - LICENSE.md
+
+pygments:    true
+
+permalink:     '/:categories/:year-:month-:day-:title.html'
+paginate_path: 'page:num'
+
+markdown:      redcarpet

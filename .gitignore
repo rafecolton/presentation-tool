@@ -1,0 +1,11 @@
+/_site
+.env
+/_posts/*.html
+/_images/*
+/images/*.png
+/images/*.jpg
+/images/*.jpeg
+/images/*.gif
+/images/*.tiff
+/jekyll.out
+/jekyll.err
