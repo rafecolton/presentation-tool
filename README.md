@@ -1,6 +1,8 @@
 ModCloth Presentation Tool!
 ==============
 
+[![Build Status](https://travis-ci.org/modcloth-labs/presentation-tool.png?branch=master)](https://travis-ci.org/modcloth-labs/presentation-tool)
+
 Make simple, easy presentations using Markdown
 
 ## To create a presentation:
@@ -8,7 +10,6 @@ Make simple, easy presentations using Markdown
 0. Create a file in `_posts` named `YYYY-MM-DD-some-title.html`
 0. Set up the yaml block at the top of your file (see example below)
 0. Write your slides in Markdown
-
 
 Put this at the top of your file:
 
