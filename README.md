@@ -1,8 +1,3 @@
----
-title: README
-layout: default
----
-
 ModCloth Presentation Tool!
 ==============
 

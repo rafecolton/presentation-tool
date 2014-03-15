@@ -1,5 +1,8 @@
 exclude:
-  - LICENSE.md
+  - 'LICENSE'
+  - 'README.md'
+  - 'jekyll.out'
+  - 'jekyll.err'
 
 pygments:    true
 
