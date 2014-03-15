@@ -1,3 +1,8 @@
+---
+title: README
+layout: default
+---
+
 ModCloth Presentation Tool!
 ==============
 
@@ -24,7 +29,7 @@ centered, use `class: center, middle`
 
 Example presentation:
 
-```
+```text
 ---
 title: Your Proper Title
 layout: presentation
@@ -51,8 +56,6 @@ Install Jekyll
 ```bash
 gem install jekyll
 ```
-
-*There may be other dependencies, I forget.*
 
 Run the server:
 
