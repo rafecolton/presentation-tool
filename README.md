@@ -9,7 +9,6 @@ Make simple, easy presentations using Markdown
 0. Set up the yaml block at the top of your file (see example below)
 0. Write your slides in Markdown
 
-
 Put this at the top of your file:
 
 ```yaml
