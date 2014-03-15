@@ -1,0 +1,12 @@
+---
+language: ruby
+rvm:
+- 1.9.3
+- 2.0.0
+- jruby-19mode
+install: gem install jekyll
+script: jekyll build
+notifications:
+  email:
+    recipients:
+      - r.colton@modcloth.com
