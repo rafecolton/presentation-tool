@@ -7,5 +7,6 @@
 /images/*.jpeg
 /images/*.gif
 /images/*.tiff
+/images/*.svg
 /jekyll.out
 /jekyll.err
