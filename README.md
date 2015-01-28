@@ -1,7 +1,7 @@
-ModCloth Presentation Tool!
-==============
+It's the Presentation Tool!
+===========================
 
-[![Build Status](https://travis-ci.org/modcloth-labs/presentation-tool.png?branch=master)](https://travis-ci.org/modcloth-labs/presentation-tool)
+[![Build Status](https://travis-ci.org/rafecolton/presentation-tool.png?branch=master)](https://travis-ci.org/rafecolton/presentation-tool)
 
 Make simple, easy presentations using Markdown
 
